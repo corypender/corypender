@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I'm current learning Back End Development!
+I'm based out of Oregon, USA. </br>
+Looking for tutors, mentors, and friends/br
+to learn from and create with!</br>
+Feel to reach out via email.
+
 <!--
 **corypender/corypender** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
